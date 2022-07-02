@@ -1,0 +1,6 @@
+# ignore all logs
+LOGS/*
+
+# ignore all files from Library directory
+Library/*
+
